@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning CS fundamentals, HTML5, CSS3
 - 💞️ I’m looking to collaborate on: tbh still learning where to start 🥴
 - 📫 How to reach me: on discord @geniu_
-- 😄 Pronouns: All, preference for they/them
 - ⚡ Fun fact: My first job was as a paid actor for a failed musical pitch when I was 8.
 
 <!---
